@@ -1,0 +1,8 @@
+D:\DeleteLocals\bin\Debug\DeleteLocals.exe.config
+D:\DeleteLocals\bin\Debug\DeleteLocals.exe
+D:\DeleteLocals\bin\Debug\DeleteLocals.pdb
+D:\DeleteLocals\obj\Debug\DeleteLocals.csproj.AssemblyReference.cache
+D:\DeleteLocals\obj\Debug\DeleteLocals.csproj.SuggestedBindingRedirects.cache
+D:\DeleteLocals\obj\Debug\DeleteLocals.csproj.CoreCompileInputs.cache
+D:\DeleteLocals\obj\Debug\DeleteLocals.exe
+D:\DeleteLocals\obj\Debug\DeleteLocals.pdb
